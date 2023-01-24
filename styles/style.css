@@ -1,6 +1,17 @@
-.btn{
+.btn1{
     background: #B68C5A;
+    border: none;
+    border-radius: 5px;
 }
 .text-color{
     color: white;
+}
+.search-btn{
+  background-color: #B68C5A ;
+  border: none;
+  border-radius: 5px; 
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px; 
+  cursor: pointer; 
 }
